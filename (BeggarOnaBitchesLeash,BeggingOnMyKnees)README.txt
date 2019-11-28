@@ -20,6 +20,9 @@ for i in range(1, ∞):
 
 print("I'll be your Wasp if you're my Plague. Teach me your ways, sensei Raki. I've wandered alone for far too long. ")
 
+print("If you see this, don't respond via LinkedIn. Make a pull request or sth. Please. Pretty please with a cherry on top.")
+
+print("This isn't ASAP.")
 
 
 
